@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ADIL
 ============================================================================================================================
 
-React Native Developer
+MERN Stack Developer
 ----------------------
 
-Enthusiastic and detail oriented Computer Science and Engineering student with a dedicated focus on becoming a proficient React Native Developer. Skilled in front-end technologies such as Javascript, React, and Expo, with a passion for crafting seamless and user-friendly mobile applications. Adept at translating design specifications into high-quality code and eager to contribute technical expertise to innovative projects. Committed to staying abreast of emerging trends in mobile app development and bringing a creative approach to solving complex challenges.
+Enthusiastic and detail-oriented Computer Science and Engineering student with a dedicated focus on becoming a proficient MERN stack developer. Proficient in front-end technologies such as JavaScript, React.js, and Redux, along with back-end technologies including Node.js and Express.js. Skilled in database management with MongoDB, and experienced in crafting robust, scalable web applications.
 
 * 🌍  I'm based in Sylhet, Bangladesh
 * 🖥️  See my portfolio at [adilhussa1n.com](http://adilhussa1n.com )

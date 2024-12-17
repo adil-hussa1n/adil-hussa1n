@@ -4,11 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 MERN Stack Developer
 ----------------------
 
-Enthusiastic and detail-oriented Computer Science and Engineering student with a dedicated focus on becoming a proficient MERN stack developer. Proficient in front-end technologies such as JavaScript, React.js, and Redux, along with back-end technologies including Node.js and Express.js. Skilled in database management with MongoDB, and experienced in crafting robust, scalable web applications.
+Founder of Graffix Innovation, a company specializing in website development, Android applications, UX/UI design, and digital marketing. A passionate and detail-oriented MERN stack developer with expertise in front-end technologies like JavaScript, React.js, and Redux, combined with back-end proficiency in Node.js and Express.js. Skilled in database management using MongoDB and experienced in designing and delivering dynamic, scalable web applications tailored to client needs. Dedicated to driving innovation and creating impactful digital solutions.
 
 * 🌍  I'm based in Sylhet, Bangladesh
-* 🖥️  See my portfolio at [adilhussa1n.com](http://adilhussa1n.com )
-* ✉️  You can contact me at [cse\_2112020010@lus.ac.bd](mailto:cse_2112020010@lus.ac.bd)
+* ✉️  You can contact me at [hussainadil981@gmail.com](mailto:hussainadil981@gmail.com)
 * 🧠  I'm learning AWS
 
 <a href="https://www.github.com/adil-hussa1n" target="_blank" rel="noreferrer"><img

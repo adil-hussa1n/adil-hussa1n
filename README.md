@@ -1,10 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ADIL
 ============================================================================================================================
 
-MERN Stack Developer
-----------------------
 
-Founder of Graffix Innovation, a company specializing in website development, Android applications, UX/UI design, and digital marketing. A passionate and detail-oriented MERN stack developer with expertise in front-end technologies like JavaScript, React.js, and Redux, combined with back-end proficiency in Node.js and Express.js. Skilled in database management using MongoDB and experienced in designing and delivering dynamic, scalable web applications tailored to client needs. Dedicated to driving innovation and creating impactful digital solutions.
+
+Experience in analyzing and interpreting data to uncover patterns, improve performance, and support data-driven decisions. Skilled in Python-based tools for data processing, visualization, and machine learning, including Pandas, NumPy, and Scikit-learn. Applied techniques such as data cleaning, EDA, and predictive modeling on structured datasets.
+
+Combines analytical thinking with development experience to understand how data flows within applications and systems.
+
+Focused on data science, machine learning, and applied analytics in real-world scenarios.
 
 * 🌍  I'm based in Sylhet, Bangladesh
 * ✉️  You can contact me at [hussainadil981@gmail.com](mailto:hussainadil981@gmail.com)

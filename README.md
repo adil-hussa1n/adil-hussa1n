@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://adilhussain.online"><img src="https://img.shields.io/badge/Portfolio-adilhussain.online-00C2FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://adilhussa1n.com"><img src="https://img.shields.io/badge/Portfolio-adilhussa1n.com-00C2FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/adil_hussa1n"><img src="https://img.shields.io/badge/LinkedIn-adil__hussa1n-0077B5?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:hussainadil981@gmail.com"><img src="https://img.shields.io/badge/Email-hussainadil981%40gmail.com-D14836?style=for-the-badge&logo=gmail" /></a>
   <a href="https://github.com/adil-hussa1n"><img src="https://img.shields.io/badge/Location-Sylhet,%20BD-brightgreen?style=for-the-badge&logo=google-maps&logoColor=white" /></a>
@@ -21,7 +21,7 @@
 
 > 📊 **Data Scientist** & **Machine Learning Engineer** with a strong development background. I specialize in extracting meaningful insights from complex datasets and building end-to-end data products, predictive models, and intelligent automation systems.
 
-*   🎓 **Education:** B.Sc. in **Computer Science & Engineering** from *Leading University* (GPA 3.00 / 4.00, March 2025).
+*   🎓 **Education:** B.Sc. in **Computer Science & Engineering** from *Leading University* (March 2025).
 *   📈 **Core Focus:** Exploratory Data Analysis (EDA), Predictive Modeling, Business Intelligence, Data Warehousing, and SQL querying.
 *   💡 **LU Computer Club:** Served as **General Secretary** (2024-2025), coordinating tech workshops, seminars, and programming contests.
 *   🌱 **Currently Enhancing:** Advanced Machine Learning algorithms, MLOps, and scalable Cloud-based Data Pipelines.

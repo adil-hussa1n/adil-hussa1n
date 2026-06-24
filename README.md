@@ -9,17 +9,17 @@
 </p>
 
 <p align="center">
-  <a href="https://adilhussain.online"><img src="https://img.shields.io/badge/Portfolio-adilhussain.online-00C2FF?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/adil_hussa1n"><img src="https://img.shields.io/badge/LinkedIn-adil__hussa1n-0077B5?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:hussainadil981@gmail.com"><img src="https://img.shields.io/badge/Email-hussainadil981%40gmail.com-D14836?style=flat-square&logo=gmail" /></a>
-  <a href="https://github.com/adil-hussa1n"><img src="https://img.shields.io/badge/Location-Sylhet,%20BD-brightgreen?style=flat-square&logo=google-maps&logoColor=white" /></a>
+  <a href="https://adilhussain.online"><img src="https://img.shields.io/badge/Portfolio-adilhussain.online-00C2FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/adil_hussa1n"><img src="https://img.shields.io/badge/LinkedIn-adil__hussa1n-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:hussainadil981@gmail.com"><img src="https://img.shields.io/badge/Email-hussainadil981%40gmail.com-D14836?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/adil-hussa1n"><img src="https://img.shields.io/badge/Location-Sylhet,%20BD-brightgreen?style=for-the-badge&logo=google-maps&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-📊 **Data Scientist** & **Machine Learning Engineer** with a strong development background. I specialize in extracting meaningful insights from complex datasets and building end-to-end data products, predictive models, and intelligent automation systems.
+> 📊 **Data Scientist** & **Machine Learning Engineer** with a strong development background. I specialize in extracting meaningful insights from complex datasets and building end-to-end data products, predictive models, and intelligent automation systems.
 
 *   🎓 **Education:** B.Sc. in **Computer Science & Engineering** from *Leading University* (GPA 3.00 / 4.00, March 2025).
 *   📈 **Core Focus:** Exploratory Data Analysis (EDA), Predictive Modeling, Business Intelligence, Data Warehousing, and SQL querying.
@@ -30,12 +30,12 @@
 
 ## 🛠️ Tech Stack & Tooling
 
-<table>
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="25%"><strong>📊 Data Science & ML</strong></td>
-    <td align="center" width="25%"><strong>📈 Data Viz & BI</strong></td>
-    <td align="center" width="25%"><strong>🗄️ Databases & Storage</strong></td>
-    <td align="center" width="25%"><strong>💻 Development & Tools</strong></td>
+    <td align="center" width="25%" bgcolor="#0f172a"><strong>📊 Data Science & ML</strong></td>
+    <td align="center" width="25%" bgcolor="#0f172a"><strong>📈 Data Viz & BI</strong></td>
+    <td align="center" width="25%" bgcolor="#0f172a"><strong>🗄️ Databases & SQL</strong></td>
+    <td align="center" width="25%" bgcolor="#0f172a"><strong>💻 Development & Tools</strong></td>
   </tr>
   <tr>
     <td align="center" valign="top">
@@ -74,56 +74,118 @@
 
 ### 📊 Data Science, ML & Analytics
 
-#### [Cricket Best XI Optimization](https://github.com/adil-hussa1n)
-*   **Description:** Formulated an end-to-end player selection optimization engine. It predicts match-day ratings using Random Forest and XGBoost regressors, then solves squad constraint optimization problems using Integer Linear Programming.
-*   **Key Highlights:** Successfully optimized team selection under tight budget and player role constraints (RMSE-evaluated performance).
-*   **Tech Stack:** `Python` `Pandas` `NumPy` `Scikit-Learn` `XGBoost` `Linear Programming`
+<details open>
+<summary><b>🏏 Cricket Best XI Optimization</b></summary>
+<p>
+  
+*   **Description:** An intelligent optimization engine built to predict match-day fantasy ratings and formulate optimal team lineups.
+*   **Methodology:** Trained Random Forest and XGBoost regressors on player statistics to forecast match-day points, then applied **Integer Linear Programming (ILP)** constraint solvers to select the highest-performing 11-player squad.
+*   **Parameters Solved:** Budget limits, player roles (batsmen, bowlers, all-rounders, wicketkeeper), and squad selection caps.
+*   **Tech Stack:** `Python` `Pandas` `NumPy` `Scikit-Learn` `XGBoost` `Linear Programming (PuLP)`
 
-#### [UK Store Analytics Dashboard](https://github.com/adil-hussa1n)
-*   **Description:** Formulated transactional data pipelines to ingest retail sales logs. Conducted detailed cohort analysis, customer lifetime value (CLV) estimation, and seasonal trend forecasting.
-*   **Key Highlights:** Built high-performance Power BI/Tableau interactive dashboards tracking sales, monthly expenditures, and inventory profit margins.
-*   **Tech Stack:** `SQL` `Python` `Pandas` `Tableau` `Power BI` `Excel`
+</p>
+</details>
 
-#### [JobNest - Smart Search & Analytics Dashboard](https://github.com/adil-hussa1n)
-*   **Description:** A job board mobile application designed with advanced search filtering and personalized analytics dashboards for tracking post activities and applications in real-time.
-*   **Tech Stack:** `React Native` `Node.js` `Express.js` `MongoDB` `Data Filtering`
+<details>
+<summary><b>🛍️ E-Commerce Customer Segmentation</b></summary>
+<p>
+  
+*   **Description:** Customer intelligence engine applying unsupervised learning to segment users based on purchase behaviors.
+*   **Methodology:** Computed RFM (Recency, Frequency, Monetary) metrics and executed K-Means clustering. Applied Principal Component Analysis (PCA) for cluster visualization and profile identification.
+*   **Outcome:** Extracted distinct user personas (VIPs, churn-risk, impulse buyers), mapping segments directly to custom targeted automated email loops.
+*   **Tech Stack:** `Python` `Pandas` `Scikit-Learn` `K-Means Clustering` `PCA` `Matplotlib` `Seaborn`
+
+</p>
+</details>
 
 ---
 
 ### 🤖 AI & Intelligent Workflows
 
-#### [AI Customer Support Chatbot Workflow](https://github.com/adil-hussa1n)
-*   **Description:** Integrated the OpenAI Assistant API with n8n automated workflow loops. Enabled automated intent recognition, context retention, and custom escalation procedures.
-*   **Tech Stack:** `OpenAI API` `n8n` `Prompt Engineering` `Node.js`
+<details>
+<summary><b>📄 Autonomous AI Resume Screener</b></summary>
+<p>
+  
+*   **Description:** An autonomous AI recruiter agent that ingests candidate resumes, extracts structural competencies, and ranks candidates against job parameters.
+*   **Key Workflows:** Automated PDF processing, LLM-based qualification matching, candidate scorecard generation, and scheduled follow-up notifications.
+*   **Tech Stack:** `n8n` `OpenAI API / Gemini` `Vector Database` `PDF Parser`
 
-#### [Instagram Lead Automation System](https://github.com/adil-hussa1n)
-*   **Description:** Automated lead discovery pipeline extracting targeted business data from profile pages, formatting it, and syncing records directly to CRMs.
-*   **Tech Stack:** `Python` `n8n` `Web Scraping` `APIs`
+</p>
+</details>
+
+<details>
+<summary><b>💬 AI Customer Support Workflow</b></summary>
+<p>
+  
+*   **Description:** Full support agent pipeline syncing OpenAI Assistant API with n8n automated logic loops. Features automated intent classification, memory retention, and ticket escalation queues.
+*   **Tech Stack:** `n8n` `OpenAI API` `Prompt Engineering` `Node.js` `JSON`
+
+</p>
+</details>
+
+<details>
+<summary><b>📲 Instagram Lead Automation System</b></summary>
+<p>
+  
+*   **Description:** Growth marketing automation pipeline scraping targeted profile directories, filtering leads by criteria, and automatically syncing data with CRMs.
+*   **Tech Stack:** `Python` `n8n` `Web Scraping` `REST APIs` `Google Sheets API`
+
+</p>
+</details>
 
 ---
 
-### 💻 Full-Stack Development (Data-Driven Web Apps)
+### 💻 Full-Stack Web Development
 
-#### [Explore Connect - Travel Booking Engine](https://github.com/adil-hussa1n)
-*   **Description:** A full-stack travel booking application featuring secure authentication, payment gateway integration, and comprehensive admin analytical dashboards.
-*   **Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Stripe API`
+<details open>
+<summary><b>🏥 Medify247 — Unified Healthcare Platform</b></summary>
+<p>
+  
+*   **Description:** A comprehensive health-tech platform designed to seamlessly connect patients, doctors, hospitals, and diagnostic centers into a single database.
+*   **Features:**
+    *   **Patient Ecosystem:** Interactive appointment scheduling, medical file uploads, diagnostic report downloads, and a secure payment portal.
+    *   **Doctor Dashboard:** Real-time patient queue visualization, digital prescription builder, and secure telehealth video chat rooms.
+    *   **Hospital & Lab Registry:** Live bed-availability counters, emergency dispatch trackers, and diagnostic test tracking.
+    *   **Data Security:** Fully encrypted HIPAA-compliant database design with strict role-based access controls (RBAC).
+*   **Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Stripe API` `Socket.io` `JWT`
 
-#### [Sports Academy Portal](https://github.com/adil-hussa1n)
-*   **Description:** Developed an online registration platform featuring role-based dashboards (students, coaches, admins), billing tracking, and automated email confirmation workflows.
-*   **Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `JWT`
+</p>
+</details>
+
+<details open>
+<summary><b>💼 Darun Commerce — Business Management System</b></summary>
+<p>
+  
+*   **Description:** A feature-rich retail and business management application built to automate commercial operations, inventory control, and checkout analytics.
+*   **Features:**
+    *   **POS & Inventory Control:** Real-time stock depletion tracking, barcode checkout utility, and automated supplier low-stock alerts.
+    *   **Financial Dashboards:** Real-time sales visualizations, product margin analytics, operational expense graphs, and PDF invoice auto-generation.
+    *   **Customer & Vendor CRM:** Dynamic customer transaction histories, credit/debit logs, and vendor purchase order registries.
+*   **Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Chart.js` `Tailwind CSS` `REST APIs`
+
+</p>
+</details>
 
 ---
 
 ## 📈 GitHub Dashboard
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adil-hussa1n&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=adil-hussa1n&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adil-hussa1n&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=adil-hussa1n&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=adil-hussa1n&theme=tokyonight&hide_border=true" height="180"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adil-hussa1n&layout=compact&theme=tokyonight&hide_border=true" width="400"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
